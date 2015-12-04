@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="7.3.1">
+<eagle version="7.5.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -124,7 +124,7 @@
 </layers>
 <board>
 <plain>
-<text x="21.59" y="37.084" size="1.778" layer="21" font="vector">SuperEchoRake VI</text>
+<text x="21.59" y="37.084" size="1.778" layer="21" font="vector">CompactSix</text>
 <text x="21.59" y="35.306" size="1.27" layer="21" font="vector">by fakufaku</text>
 <text x="21.59" y="33.528" size="1.27" layer="21" font="vector">v2.0 August 2015</text>
 <text x="21.59" y="30.48" size="0.762" layer="21" font="vector">6 microphones prototype beamformer</text>

@@ -115,7 +115,6 @@ for i in xrange(stages):
     a2 = sos[i,5]
     b0 = sos[i,0]
 
-    #print("sta321mp_biquad(codec, 1, %d, (%d)/2, %d, -(%d)/2, -(%d), (%d)/2);" % (i+2, b1, b2, a1, a2, b0))
     print("sta321mp_biquad(codec, 1, %d, 0x%x, 0x%x, 0x%x, 0x%x,0x%x);" 
             % (i+2, f2u(b1/2), f2u(b2), f2u(-a1/2), f2u(-a2), f2u(b0/2)))
 
