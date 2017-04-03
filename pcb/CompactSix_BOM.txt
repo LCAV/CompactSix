@@ -6,7 +6,7 @@ Qty Value                   Device                  Package            Parts    
 1   STA321MP                STA321MP                TQFP64-ST          ADC                                                   511-STA321MPLTR              The audio processor                                   
 1   11.2896MHz or 12.288MHz OSCILLATOR-AW-2.5X2     AW-CRYSTAL-2.5X2   OSC_CK                                                732-SG210STF12.288S3         Oscillator                                                      
 1   CONN-10P                CONN-10P                MICROMATCH-10P-SMD P1                                                    571-8-2178711-0              SMD, Micromatch, Female-On-Board, 10 pins
-1   CONN-10P                CONN-10P                MICROMATCH-10P-SMD                                                       571-12150830                 SMD, Micromatch, Male-On-Wire, 10 pins
+1   CONN-10P                CONN-10P                MICROMATCH-10P                                                           571-12150830                 SMD, Micromatch, Male-On-Wire, 10 pins
 3   0                       RESISTOR                0805               XTI, OSC_EN, MIC_CK                                                                Resistor                                                        
 2   100                     RESISTOR                0805               R19, R20                                                                           Resistor                                                        
 5   10K                     RESISTOR                0805               R21, R22, R23, R24, R31                                                            Resistor                                                        
@@ -15,6 +15,10 @@ Qty Value                   Device                  Package            Parts    
 1   1nF                     CAP0805                 0805               C22                                                                                Capacitor                                                       
 1   10pF                    CAP0805                 0805               C20                                                                                Capacitor                                                       
 1   1uF                     CAP0805                 0805               C11                                                                                Capacitor                                                       
+
+# Six Mic Boards
+6   SPM1437HM4H-B           SPM1437HM4H-B                                                                                    721-SPM1437HM4H-B            PDM MEMS Microphone
+6   100nF                   CAP0805                 0805                                                                                                  Capacitor
 
 # Real Time Clock
 1                           BATTERY20SMD            BATTCON_20MM       BAT1                                                  712-BAT-HLD-001              CR2032 Battery Holders                                                 
