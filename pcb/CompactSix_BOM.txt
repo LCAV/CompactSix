@@ -1,0 +1,45 @@
+Partlist exported from /Users/scheibler/Documents/eagle/CompactSix/CompactSix.sch at 03.04.17 11:16
+
+Qty Value                   Device                  Package            Parts                                                 Mouser #                     Description                                                     
+
+# Audio Processor
+1   STA321MP                STA321MP                TQFP64-ST          ADC                                                   511-STA321MPLTR              The audio processor                                   
+1   11.2896MHz or 12.288MHz OSCILLATOR-AW-2.5X2     AW-CRYSTAL-2.5X2   OSC_CK                                                732-SG210STF12.288S3         Oscillator                                                      
+1   CONN-10P                CONN-10P                MICROMATCH-10P-SMD P1                                                    571-8-2178711-0              SMD, Micromatch, Female-On-Board, 10 pins
+1   CONN-10P                CONN-10P                MICROMATCH-10P-SMD                                                       571-12150830                 SMD, Micromatch, Male-On-Wire, 10 pins
+3   0                       RESISTOR                0805               XTI, OSC_EN, MIC_CK                                                                Resistor                                                        
+2   100                     RESISTOR                0805               R19, R20                                                                           Resistor                                                        
+5   10K                     RESISTOR                0805               R21, R22, R23, R24, R31                                                            Resistor                                                        
+8   100nF                   CAP0805                 0805               C12, C13, C14, C15, C16, C17, C18, C19                                             Capacitor                                                       
+1   10nF                    CAP0805                 0805               C23                                                                                Capacitor                                                       
+1   1nF                     CAP0805                 0805               C22                                                                                Capacitor                                                       
+1   10pF                    CAP0805                 0805               C20                                                                                Capacitor                                                       
+1   1uF                     CAP0805                 0805               C11                                                                                Capacitor                                                       
+
+# Real Time Clock
+1                           BATTERY20SMD            BATTCON_20MM       BAT1                                                  712-BAT-HLD-001              CR2032 Battery Holders                                                 
+1   DS1338                  DS1338                  SO08               RTC                                                   700-DS1338Z-33T&R            RTC I2C IC                                                      
+1   CRYSTAL                 CRYSTAL                 CRYSTAL-3.2X1.5    RTC_OSC                                               815-ABS07-32.768KHZT         32.768 kHz oscillator                                                                
+1   100nF                   CAP0805                 0805               C25                                                                                Capacitor                                                       
+1   10K                     RESISTOR                0805               R26                                                                                Resistor                                                        
+
+# Temperature sensor
+1   TMP275                  TMP275                  SO08               TMP                                                   595-TMP275AIDR               I2C Temperature sensor                                                                
+1   100nF                   CAP0805                 0805               C26                                                                                Capacitor                                                       
+
+# Amplifier
+1                           TS482                   MINI-SO-8          AMP                                                   511-TS482IS                                                                
+1   AUDIO-STEREO-JACK-3.5MM AUDIO-STEREO-JACK-3.5MM AJ-1780            JACK                                                  502-35RAPC2BH3                                                                
+1                           L-FERRITE-BEAD-0805     0805               F1                                                                                                                    
+2   5K                      RESISTOR                0805               R7, R14                                                                            Resistor                                                        
+4   10K                     RESISTOR                0805               R15, R16, R17, R18                                                                 Resistor                                                        
+12  3.9K                    RESISTOR                0805               R1, R2, R3, R4, R5, R6, R8, R9, R10, R11, R12, R13                                 Resistor                                                        
+2   470pF                   CAP0805                 0805               C1, C4                                                                             Capacitor                                                       
+2   150pF                   CAP0805                 0805               C2, C5                                                                             Capacitor                                                       
+4   220pF                   CAP0805                 0805               C3, C6, C7, C8                                                                     Capacitor                                                       
+2   220uF                   CAP_POL7343             EIA7343            C9, C10                                                                            Capacitor Polarized                                             
+1   10uF                    CAP_POL7343             EIA7343            C21                                                                                Capacitor Polarized                                             
+
+# DNI (do not install)
+1   74AC74D                 74AC74D                 SO14               IC1                                                                                Dual D type positive edge triggered FLIP FLOP, preset and clear 
+1   100nF                   CAP0805                 0805               C24                                                                                Capacitor                                                       
