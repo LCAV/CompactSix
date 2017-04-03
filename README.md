@@ -25,6 +25,7 @@ For the BBB cape with the Audio Processor:
 * 1x 10nF capacitors, 0805 package
 * 1x 1nF capacitors, 0805 package
 * 1x 10pF capacitors, 0805 package
+* 2x pin headers 2x40, 2.57mm spaced
 
 Currently, we do not need the audio amplifier at all so that part can be left out.
 To add the RTC and the temperature sensor, add the following:
