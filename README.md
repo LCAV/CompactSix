@@ -3,9 +3,9 @@ CompactSix
 
 A six channel compact microphone array based on the Beaglebone Black and the STA321MP audio processor.
 
-<img src="http://raw.githubusercontent.com/LCAV/CompactSix/master/pcb/CompactSix.png" width="400">
+<img src="pcb/CompactSix.png" width="400">
 
-<img src="http://raw.githubusercontent.com/LCAV/CompactSix/master/pcb/CompactSix_brd_top.png" width="400">
+<img src="pcb/CompactSix_brd_top.png" width="400">
 
 Bill of Materials
 -----------------
