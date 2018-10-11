@@ -73,3 +73,15 @@ Dependencies
 
 * A modifed linux kernel should be used. It can be found in another [repo](https://github.com/fakufaku/linux/tree/epfl-3.14-sta321mp) (branch `epfl-3.14-sta321mp`).
 * A modified Device Tree Blob found in this [repo](https://github.com/fakufaku/dtb-rebuilder/tree/3.14-ti-sta321mp) (branch `3.14-ti-sta321mp`).
+
+Reuse
+-----
+
+The whole project is under MIT License. If you reuse some of this stuff in an
+academic context, please cite our [demo proposal](https://doi.org/10.1109/ICASSP.2017.8005297)
+from ICASSP 2017.
+
+> E. Bezzam, R. Scheibler, J. Azcarreta, H. Pan, M. Simeoni, R. Beuchat, P. Hurley, B. Bruneau, C. Ferry, and S. Kashani,
+  _Hardware and software for reproducible research in audio array signal processing_,
+  Proc. IEEE ICASSP, New Orleans, LA, USA, 2017, pp. 6591--6592.
+  DOI: 10.1109/ICASSP.2017.8005297
