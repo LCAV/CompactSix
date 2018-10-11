@@ -3,14 +3,6 @@ CompactSix
 
 A six channel compact microphone array based on the Beaglebone Black and the STA321MP audio processor.
 
-<img src="pcb/CompactSix.png" width="400">
-
-<img src="pcb/CompactSix.png" width="800">
-
-![schematics](pcb/CompactSix.png)
-
-<img src="pcb/CompactSix_brd_top.png" width="800">
-
 ![PCB](pcb/CompactSix_brd_top.png)
 
 Bill of Materials
@@ -52,6 +44,8 @@ For the cable:
 
 * 1x Micromatch Male-On-Wire 10 pin connector (Mouser 571-12150830)
 * 30cm flat cable, 1.27mm, 10 wires
+
+![schematics](pcb/CompactSix.png)
 
 Hardware Configuration
 ----------------------
