@@ -77,9 +77,10 @@ Dependencies
 Reuse
 -----
 
-The whole project is under MIT License. If you reuse some of this stuff in an
-academic context, please cite our [demo proposal](https://doi.org/10.1109/ICASSP.2017.8005297)
-from ICASSP 2017.
+All the hardware is under
+[CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license. If you
+reuse some of this stuff in an academic context, please cite our
+[demo proposal](https://doi.org/10.1109/ICASSP.2017.8005297) from ICASSP 2017.
 
 > E. Bezzam, R. Scheibler, J. Azcarreta, H. Pan, M. Simeoni, R. Beuchat, P. Hurley, B. Bruneau, C. Ferry, and S. Kashani,
   _Hardware and software for reproducible research in audio array signal processing_,
