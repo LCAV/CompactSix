@@ -5,7 +5,13 @@ A six channel compact microphone array based on the Beaglebone Black and the STA
 
 <img src="pcb/CompactSix.png" width="400">
 
-<img src="pcb/CompactSix_brd_top.png" width="400">
+<img src="pcb/CompactSix.png" width="800">
+
+![schematics](pcb/CompactSix.png)
+
+<img src="pcb/CompactSix_brd_top.png" width="800">
+
+![PCB](pcb/CompactSix_brd_top.png)
 
 Bill of Materials
 -----------------
